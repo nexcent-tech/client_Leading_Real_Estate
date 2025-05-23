@@ -170,92 +170,92 @@ document.addEventListener("DOMContentLoaded", function () {
 // FAQ end
 
 //phone number start
-const phoneNumber = [
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-  {
-    number: "01729202008 ",
-    link: "#",
-  },
-];
+// const phoneNumber = [
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+//   {
+//     number: "01729202008 ",
+//     link: "#",
+//   },
+// ];
 
-const phone = document.getElementById("phone-number");
-phone.innerHTML = phoneNumber
-  .map(
-    (item) =>
-      `<li class="">
-              <a
-                href="${item.link}"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="text-[#BEBEBE] hover:text-[#28a745] duration-200 transition-colors"
-                >${item.number}</a
-              >
-        </li>`
-  )
-  .join("");
+// const phone = document.getElementById("phone-number");
+// phone.innerHTML = phoneNumber
+//   .map(
+//     (item) =>
+//       `<li class="">
+//               <a
+//                 href="${item.link}"
+//                 target="_blank"
+//                 rel="noopener noreferrer"
+//                 class="text-[#BEBEBE] hover:text-[#28a745] duration-200 transition-colors"
+//                 >${item.number}</a
+//               >
+//         </li>`
+//   )
+//   .join("");
 
 //phone number end
 

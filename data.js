@@ -149,7 +149,7 @@ const faqProperties = [
   {
     title: "Prestigious Landmarks",
     description:
-      "Since the very beginning, Assure Group has been passing many prestigious landmarks. One of the biggest landmarks that we have touched is evolving as a trusted real estate development company in Bangladesh.",
+      "Since the very beginning, Amara Group has been passing many prestigious landmarks. One of the biggest landmarks that we have touched is evolving as a trusted real estate development company in Bangladesh.",
   },
 ];
 
