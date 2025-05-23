@@ -1,34 +1,34 @@
 const sisterConcerns = [
   {
-    label: "AMARA & Design Ltd.",
+    label: "Amara & Design Ltd.",
     link: "#",
   },
   {
-    label: "AMARA Builders Ltd.",
+    label: "Amara Builders Ltd.",
     link: "#",
   },
   {
-    label: "AMARA Properties Ltd.",
+    label: "Amara Properties Ltd.",
     link: "#",
   },
   {
-    label: "AMARA Agro Complex Ltd.",
+    label: "Amara Agro Complex Ltd.",
     link: "#",
   },
   {
-    label: "AMARA Tourism (Dera)",
+    label: "Amara Tourism (Dera)",
     link: "#",
   },
   {
-    label: "AMARA Tours and Travels",
+    label: "Amara Tours and Travels",
     link: "#",
   },
   {
-    label: "AMARA General Hospital Ltd.",
+    label: "Amara General Hospital Ltd.",
     link: "#",
   },
   {
-    label: "AMARA Engineering & Constructions Ltd.",
+    label: "Amara Engineering & Constructions Ltd.",
     link: "#",
   },
 ];
@@ -36,7 +36,7 @@ const sisterConcerns = [
 const luxuriousProperties = [
   {
     type: "Islam",
-    name: "AMARA Center",
+    name: "Amara Center",
     location: "Mohakhali, Dhaka",
     image:
       "https://www.assuregroupbd.com/images/properties/feature/islam-assure-center.jpg",
@@ -56,7 +56,7 @@ const luxuriousProperties = [
   },
   {
     type: "",
-    name: "AMARA North Point",
+    name: "Amara North Point",
     location: "Uttara, Dhaka",
     image:
       "https://www.assuregroupbd.com/images/properties/feature/assure-north-point-uttara.jpg",
@@ -75,7 +75,7 @@ const luxuriousProperties = [
   },
   {
     type: "",
-    name: "AMARA Star Point",
+    name: "Amara Star Point",
     location: "Mirpur, Dhaka",
     image:
       "https://www.assuregroupbd.com/images/properties/feature/assure-start-point-mirpur.jpg",
@@ -94,7 +94,7 @@ const luxuriousProperties = [
   },
   {
     type: "",
-    name: "AMARA Murshed Heights",
+    name: "Amara Murshed Heights",
     location: "North Gulshan, Dhaka.",
     image:
       "https://www.assuregroupbd.com/images/properties/properties-details/assure-murshed-heights-thumb.jpg",
