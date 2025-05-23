@@ -169,120 +169,30 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // FAQ end
 
-//phone number start
-// const phoneNumber = [
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-//   {
-//     number: "01729202008 ",
-//     link: "#",
-//   },
-// ];
-
-// const phone = document.getElementById("phone-number");
-// phone.innerHTML = phoneNumber
-//   .map(
-//     (item) =>
-//       `<li class="">
-//               <a
-//                 href="${item.link}"
-//                 target="_blank"
-//                 rel="noopener noreferrer"
-//                 class="text-[#BEBEBE] hover:text-[#28a745] duration-200 transition-colors"
-//                 >${item.number}</a
-//               >
-//         </li>`
-//   )
-//   .join("");
-
-//phone number end
-
 //Business link start
 const BusinessLink = [
   {
-    Name: "AMARA Development & Design Ltd",
+    Name: "Amara Development & Design Ltd",
     link: "#",
   },
   {
-    Name: "AMARA Builders Ltd",
+    Name: "Amara Builders Ltd",
     link: "#",
   },
   {
-    Name: "AMARA Tourism (Dera Resort)",
+    Name: "Amara Tourism (Dera Resort)",
     link: "#",
   },
   {
-    Name: "AMARA Tours and Travels",
+    Name: "Amara Tours and Travels",
     link: "#",
   },
   {
-    Name: "AMARA General Hospital Ltd",
+    Name: "Amara General Hospital Ltd",
     link: "#",
   },
   {
-    Name: "AMARA Agro Complex Ltd",
+    Name: "Amara Agro Complex Ltd",
     link: "#",
   },
   {
