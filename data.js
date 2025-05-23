@@ -1,34 +1,34 @@
 const sisterConcerns = [
   {
-    label: "Assure Development & Design Ltd.",
+    label: "AMARA & Design Ltd.",
     link: "#",
   },
   {
-    label: "Assure Builders Ltd.",
+    label: "AMARA Builders Ltd.",
     link: "#",
   },
   {
-    label: "Assure Properties Ltd.",
+    label: "AMARA Properties Ltd.",
     link: "#",
   },
   {
-    label: "Assure Agro Complex Ltd.",
+    label: "AMARA Agro Complex Ltd.",
     link: "#",
   },
   {
-    label: "Assure Tourism (Dera)",
+    label: "AMARA Tourism (Dera)",
     link: "#",
   },
   {
-    label: "Assure Tours and Travels",
+    label: "AMARA Tours and Travels",
     link: "#",
   },
   {
-    label: "Assure General Hospital Ltd.",
+    label: "AMARA General Hospital Ltd.",
     link: "#",
   },
   {
-    label: "Assure Engineering & Constructions Ltd.",
+    label: "AMARA Engineering & Constructions Ltd.",
     link: "#",
   },
 ];
@@ -36,7 +36,7 @@ const sisterConcerns = [
 const luxuriousProperties = [
   {
     type: "Islam",
-    name: "Assure Center",
+    name: "AMARA Center",
     location: "Mohakhali, Dhaka",
     image:
       "https://www.assuregroupbd.com/images/properties/feature/islam-assure-center.jpg",
@@ -56,7 +56,7 @@ const luxuriousProperties = [
   },
   {
     type: "",
-    name: "Assure North Point",
+    name: "AMARA North Point",
     location: "Uttara, Dhaka",
     image:
       "https://www.assuregroupbd.com/images/properties/feature/assure-north-point-uttara.jpg",
@@ -75,7 +75,7 @@ const luxuriousProperties = [
   },
   {
     type: "",
-    name: "Assure Star Point",
+    name: "AMARA Star Point",
     location: "Mirpur, Dhaka",
     image:
       "https://www.assuregroupbd.com/images/properties/feature/assure-start-point-mirpur.jpg",
@@ -94,7 +94,7 @@ const luxuriousProperties = [
   },
   {
     type: "",
-    name: "Assure Murshed Heights",
+    name: "AMARA Murshed Heights",
     location: "North Gulshan, Dhaka.",
     image:
       "https://www.assuregroupbd.com/images/properties/properties-details/assure-murshed-heights-thumb.jpg",

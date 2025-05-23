@@ -46,13 +46,13 @@ luxuriousList.innerHTML = luxuriousProperties
             </h3>
             <ul class="p-4 space-y-1.5">
               ${item.info
-        .map(
-          (it) => `<li class="flex gap-2 text-white card-context"> 
+                .map(
+                  (it) => `<li class="flex gap-2 text-white card-context"> 
                 <svg class="fill-current h-3.5 shrink-0 relative top-1.5" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path  d="M17.47 250.9C88.82 328.1 158 397.6 224.5 485.5c72.3-143.8 146.3-288.1 268.4-444.37L460 26.06C356.9 135.4 276.8 238.9 207.2 361.9c-48.4-43.6-126.62-105.3-174.38-137z"></path></g></svg>
                 <span>${it.label} ${it.value}</span>
                 </li>`
-        )
-        .join("")}
+                )
+                .join("")}
             </ul>
           </div>
         </div>
@@ -81,7 +81,6 @@ luxuriousList.innerHTML = luxuriousProperties
   .join("");
 
 // Luxurious Property end
-
 
 // FAQ start
 document.addEventListener("DOMContentLoaded", function () {
@@ -170,78 +169,77 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // FAQ end
 
-
 //phone number start
 const phoneNumber = [
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
   {
     number: "01729202008 ",
-    link: '#'
+    link: "#",
   },
-]
+];
 
 const phone = document.getElementById("phone-number");
 phone.innerHTML = phoneNumber
@@ -263,44 +261,40 @@ phone.innerHTML = phoneNumber
 
 //Business link start
 const BusinessLink = [
-
-
   {
-    Name: "Assure Development & Design Ltd",
-    link: '#'
+    Name: "AMARA Development & Design Ltd",
+    link: "#",
   },
   {
-    Name: "Assure Builders Ltd",
-    link: '#'
+    Name: "AMARA Builders Ltd",
+    link: "#",
   },
   {
-    Name: "Assure Tourism (Dera Resort)",
-    link: '#'
+    Name: "AMARA Tourism (Dera Resort)",
+    link: "#",
   },
   {
-    Name: "Assure Tours and Travels",
-    link: '#'
+    Name: "AMARA Tours and Travels",
+    link: "#",
   },
   {
-    Name: "Assure General Hospital Ltd",
-    link: '#'
+    Name: "AMARA General Hospital Ltd",
+    link: "#",
   },
   {
-    Name: "Assure Agro Complex Ltd",
-    link: '#'
+    Name: "AMARA Agro Complex Ltd",
+    link: "#",
   },
   {
     Name: "Bangla Version",
-    link: '#'
-  }
-
-]
+    link: "#",
+  },
+];
 
 const businessLink = document.getElementById("businessLink");
-businessLink.innerHTML = BusinessLink
-  .map(
-    (item) =>
-      `<li  class="">
+businessLink.innerHTML = BusinessLink.map(
+  (item) =>
+    `<li  class="">
               
               <a
                 href="${item.link}"
@@ -310,8 +304,7 @@ businessLink.innerHTML = BusinessLink
                 >${item.Name}</a
               >
         </li>`
-  )
-  .join("");
+).join("");
 
 //Business link end
 
@@ -319,51 +312,50 @@ businessLink.innerHTML = BusinessLink
 const Phases = [
   {
     phases: "Ongoing",
-    link: '#'
+    link: "#",
   },
   {
     phases: "Upcoming",
-    link: '#'
+    link: "#",
   },
   {
     phases: "Completed",
-    link: '#'
+    link: "#",
   },
-]
+];
 const Types = [
   {
     types: "Residential",
-    link: '#'
+    link: "#",
   },
   {
     types: "Commercial",
-    link: '#'
+    link: "#",
   },
   {
     types: "Integrated",
-    link: '#'
+    link: "#",
   },
-]
+];
 const Locatins = [
   {
     locations: "Dhanmondi",
-    link: '#'
+    link: "#",
   },
   {
     locations: "Uttora",
-    link: '#'
+    link: "#",
   },
   {
     locations: "Gulshan",
-    link: '#'
+    link: "#",
   },
-]
+];
 
 const phases = document.getElementById("Phases");
-phases.innerHTML = Phases
-  .map(
-    (item) =>
-      `<li  class="">
+phases.innerHTML = Phases.map(
+  (item) =>
+    `<li  class="">
               
               <a
                 href="${item.link}"
@@ -373,14 +365,12 @@ phases.innerHTML = Phases
                 >${item.phases}</a
               >
         </li>`
-  )
-  .join("");
+).join("");
 
 const types = document.getElementById("Types");
-types.innerHTML = Types
-  .map(
-    (item) =>
-      `<li  class="">
+types.innerHTML = Types.map(
+  (item) =>
+    `<li  class="">
               
               <a
                 href="${item.link}"
@@ -390,13 +380,11 @@ types.innerHTML = Types
                 >${item.types}</a
               >
         </li>`
-  )
-  .join("");
+).join("");
 const locations = document.getElementById("Locations");
-locations.innerHTML = Locatins
-  .map(
-    (item) =>
-      `<li  class="">
+locations.innerHTML = Locatins.map(
+  (item) =>
+    `<li  class="">
               
               <a
                 href="${item.link}"
@@ -406,7 +394,6 @@ locations.innerHTML = Locatins
                 >${item.locations}</a
               >
         </li>`
-  )
-  .join("");
+).join("");
 
 //Property Collections end
