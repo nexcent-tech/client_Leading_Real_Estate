@@ -3,7 +3,7 @@
 @theme {
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Josefin Sans", sans-serif;
-  --color-primary: #17a84c;
+  --color-primary: #fcb332;
 }
 
 body {
@@ -25,20 +25,18 @@ body {
   font-weight: 300;
 }
 
-
 .cup-of-tea {
   background: linear-gradient(90deg, rgb(0 0 0) 0%, rgb(27 175 81) 100%);
   position: absolute;
   opacity: 0.8;
 }
 
-
 /* Custom Navigation Bar Styles */
 .navbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: rgba(34, 180, 90, 0.90); /* Green with transparency */
+  background: rgba(34, 180, 90, 0.9); /* Green with transparency */
   padding: 20px 40px;
   border-radius: 0 0 8px 8px;
   font-family: Arial, sans-serif;
@@ -119,7 +117,6 @@ body {
 .social a img:hover {
   filter: brightness(0.8) invert(0.7) sepia(1) hue-rotate(90deg);
 }
-
 
 /* card text */
 .card-title {
